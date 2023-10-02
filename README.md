@@ -1,5 +1,11 @@
-### Hi there 👋
-### 
+# 주니어 백엔드 개발자 이창훈입니다.
+
+## 1. github status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangDaeJun&theme=dark&show_icons=true)
+<br>
+<br>
+
+## 2. Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangHoon97&langs_count=10&layout=compact&theme=dark)](https://github.com/ChangHoon97/ChangHoon97)﻿
 
 <!--
