@@ -6,9 +6,6 @@
 ### 2. Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangHoon97&theme=dark&show_icons=true)
 
-### 3. Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangHoon97&langs_count=10&layout=compact&theme=dark)](https://github.com/ChangHoon97/ChangHoon97)﻿
-
 <br>
 <br>
 
