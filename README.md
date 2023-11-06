@@ -27,10 +27,15 @@
     - 구현 파트 : 보호 아동 게시판/실종 아동 게시판 CRUD 기능 및 View, 실종 아동 매칭 기능
     - URL : https://www.child-ctv.com
 
-### 2. OOP 숫자야구 https://github.com/ChangHoon97/numberBaseBallGame.git
+### 2. OOP 숫자야구 https://github.com/ChangHoon97/numberBaseBallGame
     - 기간 : 2023/10/23
     - 개인 프로젝트
     - OOP 관점에서 숫자야구 게임을 개발
+
+### 3. 아트가든(ArtGarden) https://github.com/ChangHoon97/ArtGarden
+    - 기간 : 2023/10/25 ~
+    - 팀원 : FE 1명, BE 1명
+    - 기술 : Spring Boot, Spring Security, MySQL, JPA etc.
 
 
 <!--
